@@ -1,0 +1,11 @@
+Repetitive and all time QUESTS:
+Quest 1: Get a word starting with the letter z! Reward:200 tokens
+Quest 2: Get a word with size >= 11! Reward: 120 tokens
+Quest 3: Get a word with size < 3! Reward: 150 tokens
+
+PLEASE NOTE: TO LAUNCH A NEW QUEST GETTING A WORD YOU ADDED IN THE WORD LIST YOU NEED 10000 TOKENS
+Quests proposed by the players :
+
+Get the word: accesa to get 2500 tokens was added by user: davidcombei
+Get the word: AccesaJava to get 2500 tokens was added by user: davidcombei
+Get the word: TestAfterJar to get 2500 tokens was added by user: davidcombei
